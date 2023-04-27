@@ -1,14 +1,32 @@
-- ### Hi there, I'm Ibtisam👋
+## Hi there 👋
 
-  [Website](https://ibtisam.dev/)
-  [Linkedin](https://www.linkedin.com/in/ibtisamurrahman/)
+I'm a passionate developer with a focus on building scalable and efficient web applications using Nodejs, Reactjs, Vuejs, Typescript, and GraphQL. With 4 years of experience as a team lead, I've developed a deep understanding of these technologies and how to use them to deliver outstanding results.
 
-  ## I'm a Senior Software Engineer from Pakistan [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
+### 🌱 What I'm working on
 
+I'm currently working on building a robust GraphQL API for a large e-commerce platform. I'm also collaborating with a team of developers to build a React-based dashboard for managing user data.
 
-  * 🔭 I am Currently working as **Full Stack Engineer ** at [Samsoft](https://samsoft.dev/)
+### 🤝 Let's connect
 
-  - 🌱 I’m currently Learning DevOps 😎.
+I'm always looking to connect with like-minded professionals and explore new opportunities to create innovative solutions that drive results. Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/ibtisamdev/) or follow me on [Twitter](https://twitter.com/ibtisamdev).
 
+### 🚀 My skills
 
-***Thanks for visiting my profile.***
+-   Nodejs
+-   Reactjs
+-   Vuejs
+-   Typescript
+-   GraphQL
+-   Team Leadership
+-   Agile Methodologies
+-   RESTful APIs
+-   AWS
+-   Docker
+
+### 💻 My projects
+
+-   [Deep Lawn](https://deeplawn.com/) - The Ultimate  sales tool  for Lawn Care & Pest Control Companies
+-   [Service Cart](https://servicecart.io/) - The Ultimate  sales tool  for Cleaning Companies
+-   [Polypie](https://polypie.com/) - Object-based AI-powered customer service
+
+Thanks for stopping by!
